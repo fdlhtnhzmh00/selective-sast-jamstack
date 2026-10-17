@@ -1,0 +1,22 @@
+# Lingkungan Virtual Python (Ukuran raksasa, spesifik mesin)
+.venv/
+.venv_wsl/
+.venv-linux/
+
+# Rahasia & Kredensial (SANGAT RAHASIA)
+.env
+
+# Data Mentah Repositori Hasil Mining (Terlalu besar untuk GitHub)
+repos/
+mantine_temp_repo/
+
+# File Log & Arsip (Tidak relevan untuk publik)
+logs/
+_archive/
+
+# Konfigurasi Lokal VS Code
+.vscode/
+
+# Cache Python (Opsional tapi direkomendasikan)
+__pycache__/
+*.pyc
