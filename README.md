@@ -5,8 +5,6 @@ Repository ini berisi dataset primer dan skrip analitik untuk penelitian DevSecO
 ## 📊 Isi Repository
 - `data/`: Berisi dataset final (`final_dataset_patched.csv`) yang mencakup 2.450 commit unik dari 49 repositori Jamstack.
 - `scripts/`: Skrip Python (termasuk PyDriller) untuk mengekstraksi riwayat commit dan metrik churn.
-- `notebooks/`: File eksplorasi data (Jupyter Notebook) untuk pengujian Spearman's Rank Correlation dan pembuatan grafik.
-- `config/`: Parameter konfigurasi eksperimen.
 
 ## 📝 Sitasi (Citation)
 Dataset dan metodologi dalam repositori ini telah dipublikasikan secara resmi. Jika Anda menggunakan data ini untuk keperluan akademis atau riset, mohon mengutip artikel berikut:
