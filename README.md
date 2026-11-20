@@ -5,7 +5,7 @@ Replication package (dataset, analysis scripts, and figures) for the study:
 > **CI/CD Pipeline Execution Time Optimization Using Code Churn-Based Selective-SAST on Jamstack Architecture**  
 > Fadilah Tun Hazimah, Muhammad Faisal, Emil Agusalim Habi Talib, and Titik Khawa Abd Rahman  
 > *Journal of Informatics Unisla (JOUTICA)*, Vol. 11, No. 2, pp. 241–256, 2026.  
-> DOI: [10.30736/jti.v11i2.1695](https://doi.org/10.30736/jti.v11i2.1695)
+> DOI: [10.30736/jti.v11i02.1695](https://doi.org/10.30736/jti.v11i02.1695)
 
 ## Overview
 
@@ -123,7 +123,7 @@ If you use this dataset or code, please cite the published article (see `CITATIO
   volume  = {11},
   number  = {2},
   pages   = {241--256},
-  doi     = {10.30736/jti.v11i2.1695}
+  doi     = {10.30736/jti.v11i02.1695}
 }
 ```
 
