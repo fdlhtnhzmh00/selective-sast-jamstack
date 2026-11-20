@@ -14,7 +14,7 @@ plt.rcParams["ytick.labelsize"] = 11
 # -----------------------------
 # 2. Path Akurat ke File Dataset
 # -----------------------------
-file_path = "/home/tecno/projects/selective-sast-jamstack/data/variance_results_v4_patched/raw_timings_dual_v4_patched.csv"
+file_path = "data/variance_results/raw_timings_dual_v4_patched.csv"
 
 # -----------------------------
 # -----------------------------
@@ -25,7 +25,7 @@ df_time = df_time[df_time["returncode"] == 0].copy()
 
 # --- FILTER 6 BULAN (TAMBAHAN BARU) ---
 # Pastikan path ini menunjuk ke dataset 6 bulan yang baru saja kamu buat
-path_6mo = "/home/tecno/projects/selective-sast-jamstack/data/processed/final_dataset_6mo.csv" 
+path_6mo = "data/processed/final_dataset.csv" 
 df_6mo = pd.read_csv(path_6mo)
 
 # Ambil daftar commit yang lolos filter 6 bulan

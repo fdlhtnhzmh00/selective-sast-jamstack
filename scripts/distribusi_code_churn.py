@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # -----------------------------
 # 0. Load Dataset
 # -----------------------------
-df = pd.read_csv('/home/tecno/projects/selective-sast-jamstack/data/processed/final_dataset_patched.csv')
+df = pd.read_csv('data/processed/final_dataset.csv')
 
 # -----------------------------
 # 1. Siapkan data

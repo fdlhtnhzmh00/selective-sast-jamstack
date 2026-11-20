@@ -21,7 +21,7 @@ import numpy as np
 # KONFIGURASI 
 # ============================================================
 
-DATASET_PATH = '/home/tecno/projects/selective-sast-jamstack/data/processed/final_dataset_6mo.csv'  
+DATASET_PATH = 'data/processed/final_dataset.csv'  
 REPOS_DIR = Path('data/repos')
 OUTPUT_DIR = Path('data/rq2_results_patched')              
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

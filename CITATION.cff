@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this dataset or replication package, please cite the published article below."
+title: "Selective-SAST on Jamstack Architecture — Replication Package"
+type: dataset
+authors:
+  - family-names: Hazimah
+    given-names: Fadilah Tun
+    affiliation: "Universitas Muhammadiyah Makassar, Indonesia"
+    email: "105841118323@student.unismuh.ac.id"
+  - family-names: Faisal
+    given-names: Muhammad
+    affiliation: "Universitas Muhammadiyah Makassar, Indonesia"
+  - family-names: Talib
+    given-names: Emil Agusalim Habi
+    affiliation: "Universitas Muhammadiyah Makassar, Indonesia"
+  - family-names: Rahman
+    given-names: Titik Khawa Abd
+    affiliation: "Asia e University, Malaysia"
+repository-code: "https://github.com/fdlhtnhzmh00/selective-sast-jamstack"
+license: CC-BY-SA-4.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Hazimah
+      given-names: Fadilah Tun
+    - family-names: Faisal
+      given-names: Muhammad
+    - family-names: Talib
+      given-names: Emil Agusalim Habi
+    - family-names: Rahman
+      given-names: Titik Khawa Abd
+  title: "CI/CD Pipeline Execution Time Optimization Using Code Churn-Based Selective-SAST on Jamstack Architecture"
+  journal: "Journal of Informatics Unisla (JOUTICA)"
+  volume: 11
+  issue: 2
+  start: 241
+  end: 256
+  year: 2026
+  month: 10
+  doi: "10.30736/jti.v11i2.1695"
